@@ -1,11 +1,11 @@
 #!/bin/bash
 #
-# TOR Setup Script
+# SSH VIA TOR SCRIPT
 # Author: DNMinser
 #
 # This file is meant to get SSH access via Tor to a server in one command.
 #
-# Usage (as root): $ bash <(curl -s https://github/tor_ssh.sh)
+# Usage (as root): $ bash <(curl -s https://raw.githubusercontent.com/hubsmarttv/ssh_via_tor/main/ssh_tor.sh)
 #
 # Client Config Example
 #
